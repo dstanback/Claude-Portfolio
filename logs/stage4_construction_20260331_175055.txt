@@ -1,0 +1,15 @@
+PORTFOLIO CONSTRUCTION — 2026-03-31
+Total Portfolio Value: $100,000.00
+
+| #   | Ticker   | Company   | Sector   | Weight   | $ Allocation   | Expected Return (12M)   | Risk/Reward   |
+|-----|----------|-----------|----------|----------|----------------|-------------------------|---------------|
+
+SECTOR BREAKDOWN:
+
+
+PORTFOLIO METRICS:
+  - Expected Return (12M): +0.0%
+  - Expected Max Drawdown: +0.0%
+  - Sharpe Estimate: 0.00
+  - Beta to SPY: 0.00
+  - Number of Sectors: 0
